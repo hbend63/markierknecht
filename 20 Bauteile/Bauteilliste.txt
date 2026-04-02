@@ -1,0 +1,21 @@
+pos	Bauteil								Anzahl
+1.	Schrittmotor 28BYJ-48/ 5V			1
+2.	Ansteuerung ULN2003AN				1
+3.	Aruino Nano							1
+4.	Pilotbasis							1
+5.	Pilotarm							1
+6. 	Gehäusebox							1
+7. 	Gehäusedeckel						1
+8. 	Kippschalter						1
+9.	Hohlbuchse	(passend z. Netzteil)	1
+10.	9V DC Steckernetzteil				1
+11. Chinch Einbaubuchse					1
+12.	Chinch Stecker						1
+13. D-SUB Buchse 9 Pol.					1
+14. D-SUB Gehäuse						1
+15. D-SUB Stecker						1
+16. Streifenrasterplatine 70x100		1
+17.	Schraubklemmen 2 Pol				3
+18. Spannungsregler 7805				1
+19. Keramikkondensator 100nF			2
+20.	Elko 100uF/50V						1
